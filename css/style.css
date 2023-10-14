@@ -815,7 +815,9 @@ a:focus {
 
 .feature .feature-img img {
     width: 100%;
+    height: 240px;
     transition: .3s;
+    object-fit: cover;
 }
 
 .feature .feature-img img:hover {
