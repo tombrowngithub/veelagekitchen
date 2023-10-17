@@ -429,11 +429,12 @@ a:focus {
     margin-bottom: 45px;
 }
 
-.section-header p {
+.section-header h3 {
     color: #719a0a;
     margin-bottom: 5px;
     position: relative;
-    font-size: 20px;
+    font-size: 25px;
+    font-weight: 700;
 }
 
 .section-header h2 {
